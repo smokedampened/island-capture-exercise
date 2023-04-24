@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "*.c": "c",
+        "CLIENT.C": "cpp",
+        "BGIDEMO.C": "cpp",
+        "MOUSE.C": "cpp",
+        "string.h": "c"
+    },
+    "C_Cpp.errorSquiggles": "disabled"
+}
